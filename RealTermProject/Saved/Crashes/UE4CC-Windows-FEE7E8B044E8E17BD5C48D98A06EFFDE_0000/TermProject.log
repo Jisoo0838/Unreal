@@ -1,0 +1,1194 @@
+﻿Log file open, 05/16/19 10:40:34
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TermProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.192436
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.143s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-01.40.34:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.16-01.40.34:969][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.16-01.40.34:970][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.16-01.40.34:970][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.16-01.40.34:970][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.16-01.40.34:970][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.16-01.40.34:970][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.16-01.40.34:970][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.16-01.40.34:970][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.16-01.40.34:970][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.16-01.40.34:970][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.16-01.40.34:970][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.16-01.40.34:970][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-01.40.34:970][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-01.40.34:973][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.16-01.40.34:973][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.16-01.40.34:974][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.16-01.40.34:974][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.16-01.40.34:974][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.16-01.40.34:984][  0]LogHAL: Display: Platform has ~ 16 GB [17116971008 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.16-01.40.34:984][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.16-01.40.34:984][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.16-01.40.34:984][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.16-01.40.34:985][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.16-01.40.34:985][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.16-01.40.34:985][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.16-01.40.34:985][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.16-01.40.34:985][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.16-01.40.34:985][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.16-01.40.34:985][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.16-01.40.34:985][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.16-01.40.34:985][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-01.40.34:985][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.16-01.40.34:985][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.16-01.40.34:985][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.16-01.40.34:985][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.16-01.40.34:985][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-01.40.34:985][  0]LogInit: Computer: DESKTOP-5NSF9CR
+[2019.05.16-01.40.34:985][  0]LogInit: User: 지동석
+[2019.05.16-01.40.34:985][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.16-01.40.34:985][  0]LogInit: High frequency timer resolution =3.421871 MHz
+[2019.05.16-01.40.34:985][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.16-01.40.34:985][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.16-01.40.34:985][  0]LogMemory: Process Physical Memory: 104.46 MB used, 104.46 MB peak
+[2019.05.16-01.40.34:985][  0]LogMemory: Process Virtual Memory: 96.64 MB used, 96.64 MB peak
+[2019.05.16-01.40.34:985][  0]LogMemory: Physical Memory: 4469.23 MB used,  11854.78 MB free, 16324.02 MB total
+[2019.05.16-01.40.34:985][  0]LogMemory: Virtual Memory: 4645.96 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.05.16-01.40.35:009][  0]LogInit: Overriding language with editor language configuration option (ko).
+[2019.05.16-01.40.35:009][  0]LogInit: Overriding locale with editor locale configuration option (ko).
+[2019.05.16-01.40.35:361][  0]LogStreaming: Display: Took  0.351s to InitEngineTextLocalization.
+[2019.05.16-01.40.35:361][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.16-01.40.35:397][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.16-01.40.35:397][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.16-01.40.35:749][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.16-01.40.35:749][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.16-01.40.35:819][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.05.16-01.40.35:819][  0]LogD3D11RHI:       2997/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.16-01.40.35:822][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.16-01.40.35:822][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.16-01.40.35:822][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.16-01.40.35:828][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.16-01.40.35:828][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.16-01.40.35:828][  0]LogWindows: EnumDisplayDevices:
+[2019.05.16-01.40.35:828][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.05.16-01.40.35:829][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.05.16-01.40.35:830][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.05.16-01.40.35:830][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.05.16-01.40.35:831][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.16-01.40.35:831][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.05.16-01.40.35:831][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.05.16-01.40.35:831][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.05.16-01.40.35:831][  0]LogRHI: Texture pool is 2097 MB (70% of 2997 MB)
+[2019.05.16-01.40.35:858][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.16-01.40.35:868][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.16-01.40.36:284][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.16-01.40.36:297][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.16-01.40.36:311][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.16-01.40.36:324][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.16-01.40.36:338][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.16-01.40.36:351][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.16-01.40.36:365][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.16-01.40.36:379][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.16-01.40.36:385][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:462][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-01.40.36:464][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.16-01.40.36:525][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.16-01.40.36:525][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.16-01.40.36:548][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.16-01.40.36:548][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.16-01.40.36:561][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.16-01.40.36:573][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.16-01.40.36:586][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.16-01.40.36:599][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.16-01.40.36:645][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.16-01.40.36:645][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.16-01.40.36:645][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.16-01.40.36:718][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Intermediate/Shaders/WorkingDirectory/324/).
+[2019.05.16-01.40.36:718][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/지동석/AppData/Local/Temp/UnrealShaderWorkingDir/51B77944453FD63927973CA75AF5A47F/'.
+[2019.05.16-01.40.36:721][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.16-01.40.36:721][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.16-01.40.36:721][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.16-01.40.37:244][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.16-01.40.37:300][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/지동석/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.16-01.40.37:300][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/지동석/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.16-01.40.37:300][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.16-01.40.37:300][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.16-01.40.37:300][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.16-01.40.37:300][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.16-01.40.37:314][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.16-01.40.37:315][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.16-01.40.37:315][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.16-01.40.37:327][  0]LogDerivedDataCache: Using Local data cache path C:/Users/지동석/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.16-01.40.37:327][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.16-01.40.37:327][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.16-01.40.37:347][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.16-01.40.37:348][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.16-01.40.37:349][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.16-01.40.37:458][  0]LogAssetRegistry: FAssetRegistry took 0.0333 seconds to start up
+[2019.05.16-01.40.37:784][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.16-01.40.37:937][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.16-01.40.37:942][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.16-01.40.37:942][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.16-01.40.37:942][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.16-01.40.37:942][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.16-01.40.37:955][  0]LogNetVersion: TermProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3184419654)
+[2019.05.16-01.40.38:431][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.048233 seconds
+[2019.05.16-01.40.38:438][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.16-01.40.38:438][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.05.16-01.40.38:438][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.16-01.40.39:554][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.16-01.40.39:567][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.16-01.40.40:541][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.05.16-01.40.40:541][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.05.16-01.40.40:543][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.05.16-01.40.40:544][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.05.16-01.40.40:727][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.16-01.40.40:903][  0]LogOcInput: OculusInput pre-init called
+[2019.05.16-01.40.41:037][  0]LogEngine: Initializing Engine...
+[2019.05.16-01.40.41:038][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.16-01.40.41:039][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.16-01.40.41:039][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.16-01.40.41:040][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.16-01.40.41:040][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.16-01.40.41:265][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.16-01.40.41:279][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.16-01.40.41:333][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-01.40.41:369][  0]LogInit: FAudioDevice initialized.
+[2019.05.16-01.40.41:369][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.16-01.40.41:483][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/지동석/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.16-01.40.41:491][  0]LogInit: Texture streaming: Enabled
+[2019.05.16-01.40.41:514][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.16-01.40.41:527][  0]LogInit: Transaction tracking system initialized
+[2019.05.16-01.40.41:556][  0]BlueprintLog: New page: 에디터 로드
+[2019.05.16-01.40.41:644][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.05.16-01.40.41:705][  0]LogConfig: Warning: Failed to saved backup for config[../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Intermediate/Config/CoalescedSourceConfigs/Engine.ini]
+[2019.05.16-01.40.42:105][  0]LogFileCache: Scanning file cache for directory 'C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/' took 0.02s
+[2019.05.16-01.40.42:105][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.16-01.40.42:105][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.16-01.40.42:105][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.16-01.40.42:105][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.16-01.40.42:105][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.16-01.40.42:105][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.16-01.40.42:105][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.16-01.40.42:251][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.05.16-01.40.42:251][  0]Cmd: MAP LOAD FILE="../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.16-01.40.42:255][  0]LightingResults: New page: 라이팅 빌드
+[2019.05.16-01.40.42:258][  0]MapCheck: New page: 맵 체크
+[2019.05.16-01.40.42:258][  0]LightingResults: New page: 라이팅 빌드
+[2019.05.16-01.40.42:855][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.16-01.40.42:862][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.16-01.40.42:885][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.16-01.40.42:886][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.179ms.
+[2019.05.16-01.40.42:886][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.635
+[2019.05.16-01.40.42:974][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-01.40.42:981][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-01.40.42:987][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-01.40.42:995][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-01.40.43:002][  0]LogCollectionManager: Loaded 0 collections in 0.002166 seconds
+[2019.05.16-01.40.43:030][  0]LogFileCache: Scanning file cache for directory 'C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Collections/' took 0.01s
+[2019.05.16-01.40.43:030][  0]LogFileCache: Scanning file cache for directory 'C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/Developers/지동석/Collections/' took 0.01s
+[2019.05.16-01.40.43:030][  0]LogFileCache: Scanning file cache for directory 'C:/Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/Collections/' took 0.00s
+[2019.05.16-01.40.43:030][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.16-01.40.43:038][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 2651 classes and 620 folders.
+[2019.05.16-01.40.43:044][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.16-01.40.43:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:050][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:051][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:054][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:056][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:057][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:058][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:059][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:060][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:061][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:063][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:064][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:065][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-01.40.43:117][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.16-01.40.43:122][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.05.16-01.40.43:190][  0]LogSlate: Took 0.000470 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.16-01.40.43:194][  0]LogSlate: Took 0.002202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.05.16-01.40.43:196][  0]LogSlate: Took 0.001751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.05.16-01.40.43:197][  0]LogSlate: Took 0.000292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.16-01.40.43:200][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.16-01.40.43:273][  0]LogRenderer: Reallocating scene render targets to support 1156x564 Format 10 NumSamples 1 (Frame:1).
+[2019.05.16-01.40.43:433][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.16-01.40.43:433][  0]LogLoad: (Engine Initialization) Total time: 10.52 seconds
+[2019.05.16-01.40.43:433][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.16-01.40.43:519][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.16-01.40.43:543][  0]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.16-01.40.43:786][  2]LogAssetRegistry: Asset discovery search completed in 6.3507 seconds
+[2019.05.16-01.40.43:788][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.16-01.40.43:788][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2019.05.16-01.40.44:782][  5]LogSlate: Took 0.000311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.16-01.40.47:174][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-01.40.50:520][612]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-01.40.50:549][612]LogAssetEditorManager: Opening Asset editor for World /Game/MyGame.MyGame
+[2019.05.16-01.40.50:572][612]Cmd: MAP LOAD FILE="../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.16-01.40.50:573][612]LightingResults: New page: 라이팅 빌드
+[2019.05.16-01.40.50:573][612]LoadErrors: New page: 맵 로드중: MyGame.umap
+[2019.05.16-01.40.50:574][612]MapCheck: New page: 맵 체크
+[2019.05.16-01.40.50:574][612]LightingResults: New page: 라이팅 빌드
+[2019.05.16-01.40.50:834][612]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.16-01.40.50:887][612]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.16-01.40.50:887][612]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.167ms.
+[2019.05.16-01.40.50:887][612]LogFileHelpers: Loading map 'MyGame' took 0.315
+[2019.05.16-01.41.04:803][903]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.05.16-01.41.04:844][903]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-01.41.13:540][864]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.05.16-01.41.14:358][946]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2019.05.16-01.41.14:388][946]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-01.41.15:150][ 34]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.05.16-01.41.24:791][146]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-01.41.27:846][493]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2019.05.16-01.41.28:263][493]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.05.16-01.41.28:980][493]LogSlate: Took 0.000944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.16-01.41.48:319][675]LogSlate: Took 0.001423 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.05.16-01.41.53:372][251]BlueprintLog: New page: ThirdPersonGameMode 컴파일
+[2019.05.16-01.42.22:387][  3]BlueprintLog: New page: ThirdPersonGameMode 컴파일
+[2019.05.16-01.42.33:461][264]BlueprintLog: New page: ThirdPersonGameMode 컴파일
+[2019.05.16-01.42.42:357][738]BlueprintLog: New page: ThirdPersonGameMode 컴파일
+[2019.05.16-01.42.43:143][808]LogSlate: Window 'ThirdPersonGameMode*' being destroyed
+[2019.05.16-01.42.54:377][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-01.43.02:456][962]LogSlate: Window '부모 클래스 선택' being destroyed
+[2019.05.16-01.43.29:578][156]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-01.43.29:791][181]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MechCombat/BluePrints/Spawner.Spawner
+[2019.05.16-01.43.30:098][182]LogRenderer: Reallocating scene render targets to support 1156x648 Format 10 NumSamples 1 (Frame:1).
+[2019.05.16-01.43.47:182][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.16-01.43.47:631][143]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/MyGame513271744C596D976BFED0B6AB00F924.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap'
+[2019.05.16-01.43.47:655][143]LogFileHelpers: Saving map 'MyGame' took 0.474
+[2019.05.16-01.43.47:690][143]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/ThirdPersonGameMode55C2B6D542E97BDCE00203AA11509024.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2019.05.16-01.43.47:695][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MechCombat/BluePrints/Spawner" FILE="../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MechCombat/BluePrints/Spawner.uasset" SILENT=true
+[2019.05.16-01.43.47:703][143]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/SpawnerD5C4D17E4D793F016291319E48973E48.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MechCombat/BluePrints/Spawner.uasset'
+[2019.05.16-01.44.12:062][970]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.16-01.44.31:112][661]LogSlate: Took 0.001269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.16-01.46.19:630][483]BlueprintLog: New page: Spawner 컴파일
+[2019.05.16-01.46.22:751][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.16-01.46.23:202][828]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/MyGame31D34AA64DE82712DEBBBE94117BBC59.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap'
+[2019.05.16-01.46.23:224][828]LogFileHelpers: Saving map 'MyGame' took 0.473
+[2019.05.16-01.46.23:226][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MechCombat/BluePrints/Spawner" FILE="../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MechCombat/BluePrints/Spawner.uasset" SILENT=true
+[2019.05.16-01.46.23:256][828]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/SpawnerE1ADEC24406AB380286B2B962B8C37BF.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MechCombat/BluePrints/Spawner.uasset'
+[2019.05.16-01.46.23:951][901]LogSlate: Window 'Spawner' being destroyed
+[2019.05.16-01.46.40:328][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-01.46.41:973][729]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-01.46.41:975][729]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/MyGame.MyGame:PersistentLevel.MyGame
+[2019.05.16-01.52.25:360][753]BlueprintLog: New page: MyGame 컴파일
+[2019.05.16-01.52.26:206][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.16-01.52.26:680][832]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/MyGameD5F5F88943170ED2575C398745FE48A8.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap'
+[2019.05.16-01.52.26:702][832]LogFileHelpers: Saving map 'MyGame' took 0.496
+[2019.05.16-01.52.30:036][216]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-01.52.32:433][495]BlueprintLog: New page: MyGame 컴파일
+[2019.05.16-01.52.35:037][783]LogSlate: Window 'MyGame* - 레벨 블루프린트 에디터' being destroyed
+[2019.05.16-01.52.35:040][783]LogSlate: Window 'MyGame* - 레벨 블루프린트 에디터' being destroyed
+[2019.05.16-01.52.35:734][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-01.52.36:315][930]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-01.52.36:330][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.52.36:330][930]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-01.52.36:330][930]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 7:52:36)
+[2019.05.16-01.52.36:342][930]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-01.52.36:372][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029553s)
+[2019.05.16-01.52.36:373][930]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-01.52.36:373][930]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2019.05.16-01.52.36:373][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.030531s)
+[2019.05.16-01.52.36:455][930]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-01.52.36:481][930]LogInit: FAudioDevice initialized.
+[2019.05.16-01.52.36:481][930]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-01.52.36:523][930]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-01.52.36:528][930]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-10.52.36
+[2019.05.16-01.52.36:530][930]LogWorld: Bringing up level for play took: 0.006156
+[2019.05.16-01.52.36:557][930]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.05.16-01.52.36:565][930]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: -0.132
+[2019.05.16-01.52.36:565][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.53.07:151][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.53.07:152][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-01.53.07:187][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-01.53.07:188][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.53.07:219][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-01.53.07:255][591]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.05.16-01.53.16:529][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-01.53.17:514][345]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-01.53.17:518][345]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/MyGame.MyGame:PersistentLevel.MyGame
+[2019.05.16-01.53.38:732][797]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::Delay' [요소가 없습니다.]
+[2019.05.16-01.55.57:600][276]BlueprintLog: New page: MyGame 컴파일
+[2019.05.16-01.55.58:017][306]BlueprintLog: New page: MyGame 컴파일
+[2019.05.16-01.56.01:088][652]LogSlate: Window 'MyGame* - 레벨 블루프린트 에디터' being destroyed
+[2019.05.16-01.56.01:396][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-01.56.01:919][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.16-01.56.02:410][747]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/MyGameE7361FF849A8C501B1BCA2A4168C5576.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap'
+[2019.05.16-01.56.02:433][747]LogFileHelpers: Saving map 'MyGame' took 0.515
+[2019.05.16-01.56.05:454][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-01.56.06:443][223]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-01.56.06:455][223]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.56.06:455][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-01.56.06:455][223]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 7:56:06)
+[2019.05.16-01.56.06:455][223]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-01.56.06:484][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029030s)
+[2019.05.16-01.56.06:484][223]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-01.56.06:485][223]LogPlayLevel: PIE: World Init took: (0.000646s)
+[2019.05.16-01.56.06:485][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.029797s)
+[2019.05.16-01.56.06:562][223]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-01.56.06:588][223]LogInit: FAudioDevice initialized.
+[2019.05.16-01.56.06:588][223]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-01.56.06:621][223]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-01.56.06:625][223]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-10.56.06
+[2019.05.16-01.56.06:625][223]LogWorld: Bringing up level for play took: 0.003781
+[2019.05.16-01.56.06:642][223]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: -0.056
+[2019.05.16-01.56.06:642][223]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.56.10:446][677]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.85
+[2019.05.16-01.56.11:446][797]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.9
+[2019.05.16-01.56.12:447][917]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.95
+[2019.05.16-01.56.13:448][ 37]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1.0
+[2019.05.16-01.56.24:368][347]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.56.24:369][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-01.56.24:409][347]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-01.56.24:409][347]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.56.24:440][347]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-01.56.24:469][349]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.16-01.56.28:466][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-01.56.31:348][170]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2019.05.16-01.56.32:811][305]LogRenderer: Reallocating scene render targets to support 1156x696 Format 10 NumSamples 1 (Frame:1).
+[2019.05.16-01.56.37:692][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-01.57.07:063][ 71]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-01.57.07:684][106]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Spider_BombDF53A9CF4DBBE52CDD6E628F252E2D9C.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2019.05.16-01.57.11:709][267]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-01.57.14:197][560]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Turret.Spider_Turret
+[2019.05.16-01.57.22:026][446]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-01.57.25:166][787]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.16-01.57.27:062][  4]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-01.57.27:076][  4]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.57.27:076][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-01.57.27:076][  4]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 7:57:27)
+[2019.05.16-01.57.27:076][  4]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-01.57.27:104][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027963s)
+[2019.05.16-01.57.27:105][  4]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-01.57.27:105][  4]LogPlayLevel: PIE: World Init took: (0.000649s)
+[2019.05.16-01.57.27:105][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.028771s)
+[2019.05.16-01.57.27:180][  4]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-01.57.27:206][  4]LogInit: FAudioDevice initialized.
+[2019.05.16-01.57.27:239][  4]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-01.57.27:243][  4]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-10.57.27
+[2019.05.16-01.57.27:245][  4]LogWorld: Bringing up level for play took: 0.004314
+[2019.05.16-01.57.27:261][  4]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.563
+[2019.05.16-01.57.27:261][  4]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.57.47:788][460]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.57.47:788][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-01.57.47:823][460]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-01.57.47:823][460]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.57.47:855][460]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-01.57.47:890][463]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.05.16-01.57.51:220][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-01.57.51:367][878]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Turret.Spider_Turret
+[2019.05.16-01.58.06:740][600]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2019.05.16-01.59.02:190][947]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Test_Dummy_Master.Test_Dummy_Master
+[2019.05.16-01.59.29:814][  9]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-01.59.30:532][ 51]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Spider_BombE4452F21442C911A90745FABA3900177.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2019.05.16-01.59.39:718][137]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-01.59.44:866][719]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-01.59.44:897][719]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.59.44:897][719]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-01.59.44:897][719]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 7:59:44)
+[2019.05.16-01.59.44:897][719]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-01.59.44:925][719]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029209s)
+[2019.05.16-01.59.44:926][719]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-01.59.44:926][719]LogPlayLevel: PIE: World Init took: (0.000668s)
+[2019.05.16-01.59.44:926][719]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.030001s)
+[2019.05.16-01.59.45:008][719]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-01.59.45:034][719]LogInit: FAudioDevice initialized.
+[2019.05.16-01.59.45:061][719]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-01.59.45:065][719]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-10.59.45
+[2019.05.16-01.59.45:066][719]LogWorld: Bringing up level for play took: 0.003731
+[2019.05.16-01.59.45:083][719]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.385
+[2019.05.16-01.59.45:083][719]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.59.54:385][830]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.59.54:385][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-01.59.54:428][830]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-01.59.54:429][830]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-01.59.54:464][830]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-01.59.54:503][832]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.05.16-01.59.55:397][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.00.21:943][203]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-02.00.52:225][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.00.59:331][ 95]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-02.01.10:464][381]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-02.01.12:577][592]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Spider_Bomb18D5955343B91D7B1332AAA771555B6F.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2019.05.16-02.01.30:355][661]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-02.01.32:008][817]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.16-02.01.33:206][953]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.16-02.01.36:753][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.16-02.01.37:226][362]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/MyGame2194327E479A36533CD116AC80962789.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap'
+[2019.05.16-02.01.37:248][362]LogFileHelpers: Saving map 'MyGame' took 0.496
+[2019.05.16-02.01.37:324][362]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Spider_Turret6B4E91A949FF22C470F74CB830074A3D.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Turret.uasset'
+[2019.05.16-02.01.38:794][529]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.01.38:808][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.01.38:808][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.01.38:808][529]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:01:38)
+[2019.05.16-02.01.38:808][529]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.01.38:836][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027824s)
+[2019.05.16-02.01.38:836][529]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.01.38:836][529]LogPlayLevel: PIE: World Init took: (0.000637s)
+[2019.05.16-02.01.38:836][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.028572s)
+[2019.05.16-02.01.38:915][529]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.01.38:941][529]LogInit: FAudioDevice initialized.
+[2019.05.16-02.01.38:971][529]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.01.38:975][529]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.01.38
+[2019.05.16-02.01.38:976][529]LogWorld: Bringing up level for play took: 0.004278
+[2019.05.16-02.01.38:992][529]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.295
+[2019.05.16-02.01.38:992][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.01.45:457][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.01.45:457][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.01.45:490][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.01.45:490][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.01.45:520][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.01.45:562][305]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.05.16-02.01.47:486][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.01.47:598][548]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Turret.Spider_Turret
+[2019.05.16-02.02.15:560][741]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.02.15:571][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.02.15:571][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.02.15:571][741]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:02:15)
+[2019.05.16-02.02.15:571][741]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.02.15:600][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028293s)
+[2019.05.16-02.02.15:600][741]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.02.15:600][741]LogPlayLevel: PIE: World Init took: (0.000542s)
+[2019.05.16-02.02.15:600][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.028941s)
+[2019.05.16-02.02.15:677][741]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.02.15:701][741]LogInit: FAudioDevice initialized.
+[2019.05.16-02.02.15:732][741]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.02.15:736][741]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.02.15
+[2019.05.16-02.02.15:737][741]LogWorld: Bringing up level for play took: 0.003865
+[2019.05.16-02.02.15:753][741]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 1.056
+[2019.05.16-02.02.15:754][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.02.30:742][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.02.30:742][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.02.30:782][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.02.30:782][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.02.30:844][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.02.30:863][537]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.05.16-02.02.32:082][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.02.37:867][363]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2019.05.16-02.03.07:840][903]LogBlueprint: Warning: [Compiler ] 붙여넣은  CustomEvent  노드가  On See Pawn (PawnSensing)  노드와 상충하여 커스텀 이벤트로 대체했습니다!
+[2019.05.16-02.03.24:162][846]LogEditorTransaction: Undo 클립보드 내용을 붙여넣습니다.
+[2019.05.16-02.05.12:791][864]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-02.05.15:022][ 92]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.16-02.05.19:214][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.05.19:367][603]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2019.05.16-02.05.21:399][806]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Turret.Spider_Turret
+[2019.05.16-02.06.45:210][679]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.06.45:225][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.06.45:225][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.06.45:225][679]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:06:45)
+[2019.05.16-02.06.45:225][679]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.06.45:255][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030019s)
+[2019.05.16-02.06.45:256][679]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.06.45:256][679]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2019.05.16-02.06.45:256][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.030752s)
+[2019.05.16-02.06.45:335][679]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.06.45:360][679]LogInit: FAudioDevice initialized.
+[2019.05.16-02.06.45:390][679]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.06.45:394][679]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.06.45
+[2019.05.16-02.06.45:395][679]LogWorld: Bringing up level for play took: 0.004145
+[2019.05.16-02.06.45:411][679]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.713
+[2019.05.16-02.06.45:411][679]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.07.32:781][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.07.32:781][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.07.32:825][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.07.32:825][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.07.32:893][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.07.32:912][355]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.05.16-02.07.33:593][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.07.34:260][516]Cmd: SELECT NONE
+[2019.05.16-02.07.39:710][159]LogEditorViewport: Clicking on Actor (LMB): Spider_Turret_C (Spider_Turret2)
+[2019.05.16-02.07.40:604][256]LogEditorViewport: Clicking on Actor (LMB): Spider_Turret_C (Spider_Turret)
+[2019.05.16-02.07.47:356][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-02.07.48:145][100]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.07.48:160][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.07.48:160][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.07.48:160][100]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:07:48)
+[2019.05.16-02.07.48:160][100]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.07.48:190][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029503s)
+[2019.05.16-02.07.48:190][100]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.07.48:190][100]LogPlayLevel: PIE: World Init took: (0.000496s)
+[2019.05.16-02.07.48:190][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.030107s)
+[2019.05.16-02.07.48:269][100]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.07.48:294][100]LogInit: FAudioDevice initialized.
+[2019.05.16-02.07.48:294][100]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-02.07.48:324][100]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.07.48:328][100]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.07.48
+[2019.05.16-02.07.48:329][100]LogWorld: Bringing up level for play took: 0.004133
+[2019.05.16-02.07.48:345][100]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: -0.353
+[2019.05.16-02.07.48:346][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.07.55:640][972]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.07.55:640][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.07.55:676][972]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.07.55:676][972]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.07.55:709][972]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.07.55:744][975]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.05.16-02.07.56:930][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.09.50:337][670]LogEditorViewport: Clicking on Actor (LMB): Spider_Turret_C (Spider_Turret2)
+[2019.05.16-02.09.50:719][708]Cmd: DELETE
+[2019.05.16-02.09.50:719][708]Cmd: ACTOR DELETE
+[2019.05.16-02.09.50:735][708]LogEditorActor: Deleted Actor: Spider_Turret_C
+[2019.05.16-02.09.50:766][708]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2019.05.16-02.09.51:055][743]LogEditorViewport: Clicking on Actor (LMB): Spider_Turret_C (Spider_Turret)
+[2019.05.16-02.09.51:306][765]Cmd: DELETE
+[2019.05.16-02.09.51:306][765]Cmd: ACTOR DELETE
+[2019.05.16-02.09.51:318][765]LogEditorActor: Deleted Actor: Spider_Turret_C
+[2019.05.16-02.09.51:348][765]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2019.05.16-02.09.52:165][862]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-02.09.53:024][964]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.09.53:040][964]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.09.53:040][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.09.53:040][964]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:09:53)
+[2019.05.16-02.09.53:040][964]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.09.53:068][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027404s)
+[2019.05.16-02.09.53:068][964]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.09.53:068][964]LogPlayLevel: PIE: World Init took: (0.000596s)
+[2019.05.16-02.09.53:068][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.028112s)
+[2019.05.16-02.09.53:146][964]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.09.53:170][964]LogInit: FAudioDevice initialized.
+[2019.05.16-02.09.53:170][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-02.09.53:197][964]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.09.53:200][964]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.09.53
+[2019.05.16-02.09.53:200][964]LogWorld: Bringing up level for play took: 0.002213
+[2019.05.16-02.09.53:216][964]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.518
+[2019.05.16-02.09.53:216][964]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.10.10:847][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.10.10:847][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.10.10:882][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.10.10:882][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.10.10:914][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.10.10:949][ 80]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.05.16-02.10.12:608][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.10.57:187][288]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.05.16-02.11.15:055][339]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/MechCombat/BluePrints/Hammer.Hammer
+[2019.05.16-02.11.26:784][673]BlueprintLog: New page: Hammer 컴파일
+[2019.05.16-02.11.42:545][501]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-02.11.50:943][459]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-02.11.52:887][658]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.11.52:907][658]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.11.52:907][658]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.11.52:907][658]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:11:52)
+[2019.05.16-02.11.52:907][658]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.11.52:935][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027229s)
+[2019.05.16-02.11.52:935][658]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.11.52:936][658]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2019.05.16-02.11.52:936][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.028004s)
+[2019.05.16-02.11.53:016][658]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.11.53:042][658]LogInit: FAudioDevice initialized.
+[2019.05.16-02.11.53:070][658]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.11.53:073][658]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.11.53
+[2019.05.16-02.11.53:073][658]LogWorld: Bringing up level for play took: 0.002417
+[2019.05.16-02.11.53:090][658]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.392
+[2019.05.16-02.11.53:090][658]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.12.12:206][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.12.12:206][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.12.12:239][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.12.12:240][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.12.12:273][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.12.12:306][949]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2019.05.16-02.12.13:724][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.13.05:677][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-02.13.06:379][479]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.13.06:397][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.13.06:397][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.13.06:397][479]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:13:06)
+[2019.05.16-02.13.06:397][479]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.13.06:425][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027961s)
+[2019.05.16-02.13.06:426][479]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.13.06:426][479]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2019.05.16-02.13.06:426][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.028618s)
+[2019.05.16-02.13.06:503][479]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.13.06:527][479]LogInit: FAudioDevice initialized.
+[2019.05.16-02.13.06:527][479]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-02.13.06:561][479]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.13.06:564][479]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.13.06
+[2019.05.16-02.13.06:564][479]LogWorld: Bringing up level for play took: 0.002891
+[2019.05.16-02.13.06:580][479]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: -0.117
+[2019.05.16-02.13.06:581][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.13.11:570][ 75]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.13.11:570][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.13.11:607][ 75]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.13.11:607][ 75]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.13.11:641][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.13.11:675][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2019.05.16-02.13.13:858][339]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.13.52:479][922]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-02.13.58:828][641]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-02.14.00:720][834]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.14.00:739][834]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.14.00:739][834]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.14.00:739][834]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:14:00)
+[2019.05.16-02.14.00:739][834]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.14.00:766][834]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027098s)
+[2019.05.16-02.14.00:767][834]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.14.00:767][834]LogPlayLevel: PIE: World Init took: (0.000502s)
+[2019.05.16-02.14.00:767][834]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.027712s)
+[2019.05.16-02.14.00:846][834]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.14.00:870][834]LogInit: FAudioDevice initialized.
+[2019.05.16-02.14.00:901][834]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.14.00:905][834]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.14.00
+[2019.05.16-02.14.00:905][834]LogWorld: Bringing up level for play took: 0.002925
+[2019.05.16-02.14.00:922][834]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.224
+[2019.05.16-02.14.00:922][834]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.14.06:681][522]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.14.06:681][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.14.06:716][522]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.14.06:716][522]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.14.06:749][522]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.14.06:783][525]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2019.05.16-02.14.09:143][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.14.22:679][420]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-02.14.23:779][520]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-02.14.26:008][750]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.16-02.14.26:009][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.16-02.14.26:476][750]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/MyGame29B9E36B43ECE5EB64162DA385F08F9D.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/MyGame.umap'
+[2019.05.16-02.14.26:497][750]LogFileHelpers: Saving map 'MyGame' took 0.489
+[2019.05.16-02.14.26:574][750]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Spider_Turret9EFFDFAF4777724DEA8566AAEC2798F9.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Turret.uasset'
+[2019.05.16-02.14.26:660][750]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Saved/Spider_Bomb23C319554BCBD1BBFF85979CEEA6B202.tmp' to '../../../../../../Users/지동석/Desktop/GameEngine/MyTerm/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2019.05.16-02.14.29:318][ 51]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.14.29:336][ 51]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.14.29:336][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.14.29:336][ 51]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:14:29)
+[2019.05.16-02.14.29:336][ 51]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.14.29:363][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026741s)
+[2019.05.16-02.14.29:363][ 51]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.14.29:364][ 51]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2019.05.16-02.14.29:364][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.027367s)
+[2019.05.16-02.14.29:479][ 51]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.14.29:508][ 51]LogInit: FAudioDevice initialized.
+[2019.05.16-02.14.29:537][ 51]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.14.29:540][ 51]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.14.29
+[2019.05.16-02.14.29:541][ 51]LogWorld: Bringing up level for play took: 0.003553
+[2019.05.16-02.14.29:557][ 51]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.859
+[2019.05.16-02.14.29:558][ 51]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.14.34:053][588]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.14.34:053][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.14.34:083][588]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.14.34:083][588]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.14.34:133][588]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.14.34:159][590]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.05.16-02.14.35:280][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.15.13:439][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.16-02.15.22:962][266]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-02.15.32:284][343]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-02.15.34:125][530]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.15.34:143][530]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.15.34:143][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.15.34:143][530]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:15:34)
+[2019.05.16-02.15.34:143][530]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.15.34:172][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028050s)
+[2019.05.16-02.15.34:172][530]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.15.34:172][530]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2019.05.16-02.15.34:172][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.028721s)
+[2019.05.16-02.15.34:251][530]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.15.34:275][530]LogInit: FAudioDevice initialized.
+[2019.05.16-02.15.34:309][530]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.15.34:312][530]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.15.34
+[2019.05.16-02.15.34:313][530]LogWorld: Bringing up level for play took: 0.003296
+[2019.05.16-02.15.34:330][530]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: -0.368
+[2019.05.16-02.15.34:330][530]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.15.36:211][753]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.15.36:211][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.15.36:243][753]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.15.36:243][753]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.15.36:277][753]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.15.36:295][754]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 1
+[2019.05.16-02.15.36:312][756]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.05.16-02.15.37:013][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.16.05:889][290]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-02.16.07:060][399]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-02.16.18:339][705]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-02.16.20:877][975]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.16.20:895][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.16.20:895][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.16.20:895][975]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:16:20)
+[2019.05.16-02.16.20:896][975]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.16.20:923][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027479s)
+[2019.05.16-02.16.20:924][975]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.16.20:924][975]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2019.05.16-02.16.20:924][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.028311s)
+[2019.05.16-02.16.21:002][975]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.16.21:027][975]LogInit: FAudioDevice initialized.
+[2019.05.16-02.16.21:058][975]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.16.21:062][975]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.16.21
+[2019.05.16-02.16.21:062][975]LogWorld: Bringing up level for play took: 0.002982
+[2019.05.16-02.16.21:084][975]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.386
+[2019.05.16-02.16.21:085][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.16.25:846][541]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.16.25:847][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.16.25:881][541]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.16.25:881][541]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.16.25:913][541]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.16.25:948][544]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.05.16-02.16.26:892][657]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.16.33:788][474]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-02.16.40:883][283]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-02.16.43:147][520]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.16.43:166][520]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.16.43:166][520]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.16.43:166][520]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:16:43)
+[2019.05.16-02.16.43:166][520]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.16.43:194][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027552s)
+[2019.05.16-02.16.43:194][520]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.16.43:194][520]LogPlayLevel: PIE: World Init took: (0.000516s)
+[2019.05.16-02.16.43:194][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.028178s)
+[2019.05.16-02.16.43:274][520]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.16.43:298][520]LogInit: FAudioDevice initialized.
+[2019.05.16-02.16.43:333][520]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.16.43:340][520]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.16.43
+[2019.05.16-02.16.43:341][520]LogWorld: Bringing up level for play took: 0.006734
+[2019.05.16-02.16.43:365][520]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.667
+[2019.05.16-02.16.43:365][520]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.16.55:889][ 18]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.16.55:890][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.16.55:922][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.16.55:922][ 18]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.16.55:956][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.16.55:989][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.05.16-02.16.57:214][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.17.11:475][868]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-02.17.17:318][524]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-02.17.18:974][688]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.17.18:993][688]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.17.18:993][688]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.17.18:993][688]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:17:18)
+[2019.05.16-02.17.18:993][688]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.17.19:021][688]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027829s)
+[2019.05.16-02.17.19:022][688]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.17.19:022][688]LogPlayLevel: PIE: World Init took: (0.000530s)
+[2019.05.16-02.17.19:022][688]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.028469s)
+[2019.05.16-02.17.19:103][688]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.17.19:127][688]LogInit: FAudioDevice initialized.
+[2019.05.16-02.17.19:158][688]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.17.19:162][688]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.17.19
+[2019.05.16-02.17.19:162][688]LogWorld: Bringing up level for play took: 0.003015
+[2019.05.16-02.17.19:178][688]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.481
+[2019.05.16-02.17.19:179][688]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.17.24:264][296]LogBlueprintUserMessages: [TimeFragment_C_0] 1
+[2019.05.16-02.17.25:707][469]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.17.25:708][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.17.25:741][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.17.25:742][469]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.17.25:796][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.17.25:816][470]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.05.16-02.17.26:852][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.17.56:264][970]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.16-02.17.59:664][362]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Test_Dummy_Master.Test_Dummy_Master
+[2019.05.16-02.18.55:677][957]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.05.16-02.19.11:465][839]LogRenderer: Reallocating scene render targets to support 1156x712 Format 10 NumSamples 1 (Frame:18245).
+[2019.05.16-02.20.38:483][929]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-02.20.46:379][733]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-02.20.47:988][890]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-02.20.48:008][890]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.20.48:008][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-02.20.48:008][890]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 8:20:48)
+[2019.05.16-02.20.48:008][890]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-02.20.48:038][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029090s)
+[2019.05.16-02.20.48:038][890]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-02.20.48:038][890]LogPlayLevel: PIE: World Init took: (0.000532s)
+[2019.05.16-02.20.48:038][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.029737s)
+[2019.05.16-02.20.48:117][890]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-02.20.48:141][890]LogInit: FAudioDevice initialized.
+[2019.05.16-02.20.48:173][890]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-02.20.48:176][890]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-11.20.48
+[2019.05.16-02.20.48:176][890]LogWorld: Bringing up level for play took: 0.002798
+[2019.05.16-02.20.48:192][890]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: -0.505
+[2019.05.16-02.20.48:193][890]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.20.57:503][  1]LogBlueprintUserMessages: [TimeFragment_C_0] 1
+[2019.05.16-02.21.04:847][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.21.04:847][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.21.04:888][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-02.21.04:888][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-02.21.04:923][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-02.21.04:951][884]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.05.16-02.21.06:650][ 87]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.21.11:041][604]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.05.16-02.21.12:912][758]LogRenderer: Reallocating scene render targets to support 1708x712 Format 10 NumSamples 1 (Frame:1).
+[2019.05.16-02.21.17:986][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.21.18:060][343]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2019.05.16-02.21.20:962][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-02.21.21:028][641]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2019.05.16-02.21.34:505][174]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-02.21.40:185][816]LogUObjectBase: Warning: Object is not registered
+[2019.05.16-02.21.40:185][816]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.05.16-02.21.40:187][816]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.001 s
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: === Handled ensure: ===
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: 
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1154]
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: Stack: 
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe7e108304 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe7e1181ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe83aebcba UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe7be6769a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe7be20917 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe87117c74 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe87364393 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe87172d7a UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe87148a70 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe8713b263 UE4Editor-Slate.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe8ba1dc66 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe8ba10de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe8ba201eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe8ba0ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffeb45f6d41 USER32.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffeb45f6713 USER32.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffe8ba21746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ff64c8c5546 UE4Editor.exe!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ff64c8d596c UE4Editor.exe!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ff64c8d59ea UE4Editor.exe!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ff64c8e48da UE4Editor.exe!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ff64c8e659a UE4Editor.exe!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffeb2e04034 KERNEL32.DLL!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: [Callstack] 0x00007ffeb5943691 ntdll.dll!UnknownFunction []
+[2019.05.16-02.21.40:187][816]LogOutputDevice: Error: 
+[2019.05.16-02.21.40:192][816]LogStats:                SubmitErrorReport -  0.000 s

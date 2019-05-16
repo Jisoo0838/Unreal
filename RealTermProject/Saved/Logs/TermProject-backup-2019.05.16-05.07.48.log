@@ -1,0 +1,1618 @@
+﻿Log file open, 05/16/19 13:57:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: TermProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.188727
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +9:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.110s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7600 CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-04.57.04:080][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.16-04.57.04:080][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.16-04.57.04:081][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.16-04.57.04:081][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.16-04.57.04:081][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.16-04.57.04:081][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.16-04.57.04:081][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.16-04.57.04:081][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.16-04.57.04:081][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.16-04.57.04:081][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-04.57.04:081][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-04.57.04:084][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.16-04.57.04:084][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.16-04.57.04:085][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.16-04.57.04:086][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.16-04.57.04:086][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.16-04.57.04:086][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.16-04.57.04:086][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.16-04.57.04:086][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.16-04.57.04:086][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.16-04.57.04:086][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.16-04.57.04:086][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.16-04.57.04:086][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:086][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.16-04.57.04:086][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.16-04.57.04:086][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.16-04.57.04:086][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.16-04.57.04:101][  0]LogHAL: Display: Platform has ~ 16 GB [17116971008 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.16-04.57.04:101][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.16-04.57.04:101][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.16-04.57.04:102][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.16-04.57.04:102][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Scalability.ini]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.16-04.57.04:103][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.16-04.57.04:104][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.16-04.57.04:104][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/지동석/Desktop/TermProject/Saved/Config/Windows/Engine.ini]
+[2019.05.16-04.57.04:104][  0]LogInit: Computer: DESKTOP-5NSF9CR
+[2019.05.16-04.57.04:104][  0]LogInit: User: 지동석
+[2019.05.16-04.57.04:104][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.16-04.57.04:104][  0]LogInit: High frequency timer resolution =3.421871 MHz
+[2019.05.16-04.57.04:105][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.16-04.57.04:105][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.16-04.57.04:105][  0]LogMemory: Process Physical Memory: 104.43 MB used, 104.43 MB peak
+[2019.05.16-04.57.04:105][  0]LogMemory: Process Virtual Memory: 92.68 MB used, 92.68 MB peak
+[2019.05.16-04.57.04:105][  0]LogMemory: Physical Memory: 3982.68 MB used,  12341.34 MB free, 16324.02 MB total
+[2019.05.16-04.57.04:105][  0]LogMemory: Virtual Memory: 4641.96 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.05.16-04.57.04:135][  0]LogInit: Overriding language with editor language configuration option (ko).
+[2019.05.16-04.57.04:135][  0]LogInit: Overriding locale with editor locale configuration option (ko).
+[2019.05.16-04.57.04:466][  0]LogStreaming: Display: Took  0.331s to InitEngineTextLocalization.
+[2019.05.16-04.57.04:466][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.16-04.57.04:498][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.16-04.57.04:498][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.16-04.57.04:825][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.16-04.57.04:825][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.16-04.57.04:882][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2019.05.16-04.57.04:882][  0]LogD3D11RHI:       2997/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.16-04.57.04:884][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.16-04.57.04:884][  0]LogD3D11RHI:       0/0/8162 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.16-04.57.04:884][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.16-04.57.04:889][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.16-04.57.04:889][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.16-04.57.04:889][  0]LogWindows: EnumDisplayDevices:
+[2019.05.16-04.57.04:890][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2019.05.16-04.57.04:890][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.05.16-04.57.04:891][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.05.16-04.57.04:892][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2019.05.16-04.57.04:893][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.05.16-04.57.04:893][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2019.05.16-04.57.04:893][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2019.05.16-04.57.04:893][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2019.05.16-04.57.04:893][  0]LogRHI: Texture pool is 2097 MB (70% of 2997 MB)
+[2019.05.16-04.57.04:922][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.16-04.57.04:932][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.16-04.57.05:368][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.16-04.57.05:381][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.16-04.57.05:394][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.16-04.57.05:407][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.16-04.57.05:420][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.16-04.57.05:432][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.16-04.57.05:446][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.16-04.57.05:459][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.16-04.57.05:465][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:535][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.16-04.57.05:537][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.16-04.57.05:596][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.16-04.57.05:596][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.16-04.57.05:617][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.16-04.57.05:617][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.16-04.57.05:629][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.16-04.57.05:641][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.16-04.57.05:652][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.16-04.57.05:665][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.16-04.57.05:707][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.16-04.57.05:707][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.16-04.57.05:707][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.16-04.57.05:775][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../../Users/지동석/Desktop/TermProject/Intermediate/Shaders/WorkingDirectory/3712/).
+[2019.05.16-04.57.05:775][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/지동석/AppData/Local/Temp/UnrealShaderWorkingDir/CD51E90941CBC7029F46E6A634441B44/'.
+[2019.05.16-04.57.05:778][  0]LogXGEController: Cleaning working directory: C:/Users/지동석/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.16-04.57.05:778][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.16-04.57.05:778][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.16-04.57.05:778][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.16-04.57.06:284][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.16-04.57.06:328][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/지동석/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.16-04.57.06:328][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/지동석/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.16-04.57.06:328][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/지동석/Desktop/TermProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.16-04.57.06:328][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.16-04.57.06:328][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/지동석/Desktop/TermProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.16-04.57.06:328][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.16-04.57.06:342][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.16-04.57.06:342][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.16-04.57.06:342][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.16-04.57.06:354][  0]LogDerivedDataCache: Using Local data cache path C:/Users/지동석/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.16-04.57.06:354][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.16-04.57.06:354][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.16-04.57.06:373][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.16-04.57.06:374][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.16-04.57.06:375][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.16-04.57.06:479][  0]LogAssetRegistry: FAssetRegistry took 0.0334 seconds to start up
+[2019.05.16-04.57.06:779][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.16-04.57.06:923][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.16-04.57.06:926][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.16-04.57.06:926][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.16-04.57.06:926][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.16-04.57.06:926][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.16-04.57.06:939][  0]LogNetVersion: TermProject 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3184419654)
+[2019.05.16-04.57.07:376][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.037327 seconds
+[2019.05.16-04.57.07:381][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.16-04.57.07:381][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.05.16-04.57.07:381][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.16-04.57.08:431][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.16-04.57.08:444][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.16-04.57.09:345][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.05.16-04.57.09:345][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.05.16-04.57.09:347][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.05.16-04.57.09:348][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.05.16-04.57.09:545][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.16-04.57.09:708][  0]LogOcInput: OculusInput pre-init called
+[2019.05.16-04.57.09:905][  0]LogEngine: Initializing Engine...
+[2019.05.16-04.57.09:906][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.16-04.57.09:907][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.16-04.57.09:907][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.16-04.57.09:907][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.16-04.57.09:907][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.16-04.57.10:113][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.16-04.57.10:126][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.16-04.57.10:178][  0]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-04.57.10:320][  0]LogInit: FAudioDevice initialized.
+[2019.05.16-04.57.10:320][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.16-04.57.10:446][  0]LogDerivedDataCache: Saved boot cache 0.12s 71MB C:/Users/지동석/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.16-04.57.10:454][  0]LogInit: Texture streaming: Enabled
+[2019.05.16-04.57.10:473][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.16-04.57.10:490][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.05.16-04.57.10:551][  0]LogInit: Transaction tracking system initialized
+[2019.05.16-04.57.10:580][  0]BlueprintLog: New page: 에디터 로드
+[2019.05.16-04.57.10:666][  0]LocalizationService: 현지화 서비스가 비활성화되었습니다.
+[2019.05.16-04.57.11:138][  0]LogFileCache: Scanning file cache for directory 'C:/Users/지동석/Desktop/TermProject/Content/' took 0.02s
+[2019.05.16-04.57.11:138][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.16-04.57.11:138][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.16-04.57.11:138][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.16-04.57.11:138][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.16-04.57.11:138][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.16-04.57.11:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.16-04.57.11:139][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.16-04.57.11:293][  0]SourceControl: 소스 컨트롤이 꺼졌습니다.
+[2019.05.16-04.57.11:293][  0]Cmd: MAP LOAD FILE="../../../../../../Users/지동석/Desktop/TermProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.16-04.57.11:293][  0]LightingResults: New page: 라이팅 빌드
+[2019.05.16-04.57.11:296][  0]MapCheck: New page: 맵 체크
+[2019.05.16-04.57.11:296][  0]LightingResults: New page: 라이팅 빌드
+[2019.05.16-04.57.11:805][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.16-04.57.11:812][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.16-04.57.11:835][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.16-04.57.11:835][  0]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.209ms.
+[2019.05.16-04.57.11:835][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.542
+[2019.05.16-04.57.11:923][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-04.57.11:929][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-04.57.11:935][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-04.57.11:941][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-04.57.11:948][  0]LogCollectionManager: Loaded 0 collections in 0.002125 seconds
+[2019.05.16-04.57.11:976][  0]LogFileCache: Scanning file cache for directory 'C:/Users/지동석/Desktop/TermProject/Saved/Collections/' took 0.01s
+[2019.05.16-04.57.11:976][  0]LogFileCache: Scanning file cache for directory 'C:/Users/지동석/Desktop/TermProject/Content/Developers/지동석/Collections/' took 0.00s
+[2019.05.16-04.57.11:976][  0]LogFileCache: Scanning file cache for directory 'C:/Users/지동석/Desktop/TermProject/Content/Collections/' took 0.01s
+[2019.05.16-04.57.11:976][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.16-04.57.11:983][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2651 classes and 620 folders.
+[2019.05.16-04.57.11:990][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.16-04.57.11:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.11:993][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.11:994][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.11:995][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.11:995][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.11:996][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.11:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.11:997][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.11:998][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.11:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.11:999][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:000][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:001][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:002][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:003][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:003][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:004][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:006][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:007][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:009][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:009][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.16-04.57.12:063][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.16-04.57.12:068][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.16-04.57.12:127][  0]LogSlate: Took 0.000355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.16-04.57.12:130][  0]LogSlate: Took 0.001802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothic.ttf' (4243K)
+[2019.05.16-04.57.12:133][  0]LogSlate: Took 0.002052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/NanumGothicBold.ttf' (4188K)
+[2019.05.16-04.57.12:133][  0]LogSlate: Took 0.000301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.16-04.57.12:138][  0]LogSlate: Took 0.000344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.16-04.57.12:209][  0]LogRenderer: Reallocating scene render targets to support 1072x564 Format 10 NumSamples 1 (Frame:1).
+[2019.05.16-04.57.12:300][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.05.16-04.57.12:300][  0]LogLoad: (Engine Initialization) Total time: 10.16 seconds
+[2019.05.16-04.57.12:300][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.16-04.57.12:364][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.16-04.57.12:381][  0]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.16-04.57.12:470][  2]LogAssetRegistry: Asset discovery search completed in 6.0139 seconds
+[2019.05.16-04.57.12:471][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.05.16-04.57.12:471][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2019.05.16-04.57.13:762][153]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-04.57.19:647][857]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.16-04.57.20:139][857]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-04.57.20:153][857]LogAssetEditorManager: Opening Asset editor for World /Game/MyGame.MyGame
+[2019.05.16-04.57.20:177][857]Cmd: MAP LOAD FILE="../../../../../../Users/지동석/Desktop/TermProject/Content/MyGame.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.16-04.57.20:177][857]LightingResults: New page: 라이팅 빌드
+[2019.05.16-04.57.20:177][857]LoadErrors: New page: 맵 로드중: MyGame.umap
+[2019.05.16-04.57.20:178][857]MapCheck: New page: 맵 체크
+[2019.05.16-04.57.20:178][857]LightingResults: New page: 라이팅 빌드
+[2019.05.16-04.57.20:351][857]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.16-04.57.20:405][857]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.16-04.57.20:405][857]MapCheck: 맵 체크 완료: 오류 0 회, 경고 0 회, 소요 시간 0.173ms.
+[2019.05.16-04.57.20:405][857]LogFileHelpers: Loading map 'MyGame' took 0.229
+[2019.05.16-04.58.01:229][405]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Bomb.Spider_Bomb
+[2019.05.16-04.58.01:593][405]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 117 classes and 0 folders.
+[2019.05.16-04.58.02:251][405]LogSlate: Took 0.000297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.16-04.58.02:411][406]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.16-04.59.24:041][590]LogRenderer: Reallocating scene render targets to support 1216x712 Format 10 NumSamples 1 (Frame:1).
+[2019.05.16-04.59.50:265][714]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.05.16-04.59.57:618][514]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2019.05.16-04.59.59:152][616]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-04.59.59:168][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-04.59.59:168][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-04.59.59:169][616]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 10:59:59)
+[2019.05.16-04.59.59:180][616]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-04.59.59:225][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044329s)
+[2019.05.16-04.59.59:225][616]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-04.59.59:225][616]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2019.05.16-04.59.59:226][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.045376s)
+[2019.05.16-04.59.59:303][616]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-04.59.59:328][616]LogInit: FAudioDevice initialized.
+[2019.05.16-04.59.59:371][616]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-04.59.59:374][616]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-13.59.59
+[2019.05.16-04.59.59:375][616]LogWorld: Bringing up level for play took: 0.003185
+[2019.05.16-04.59.59:393][616]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.05.16-04.59.59:399][616]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.701
+[2019.05.16-04.59.59:399][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.00.23:398][488]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.00.23:399][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.00.23:433][488]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-05.00.23:434][488]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.00.23:487][488]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.00.23:506][489]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.05.16-05.03.09:151][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-05.03.29:445][ 90]BlueprintLog: New page: ThirdPersonCharacter 컴파일
+[2019.05.16-05.03.55:570][ 82]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-05.04.04:568][941]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Spider_Turret.Spider_Turret
+[2019.05.16-05.04.24:953][314]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-05.04.26:881][497]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Test_Dummy_Master.Test_Dummy_Master
+[2019.05.16-05.04.32:402][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/지동석/Desktop/TermProject/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.16-05.04.32:890][107]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/TermProject/Saved/MyGameF492F6D145CDD9DF792E5A8FBF6C4FA2.tmp' to '../../../../../../Users/지동석/Desktop/TermProject/Content/MyGame.umap'
+[2019.05.16-05.04.32:915][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame_BuiltData" FILE="../../../../../../Users/지동석/Desktop/TermProject/Content/MyGame_BuiltData.uasset" SILENT=true
+[2019.05.16-05.04.33:522][107]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/TermProject/Saved/MyGame_BuiltDataBE80793B49D3789BD99DFE95101B2247.tmp' to '../../../../../../Users/지동석/Desktop/TermProject/Content/MyGame_BuiltData.uasset'
+[2019.05.16-05.04.34:415][177]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/TermProject/Saved/ThirdPersonCharacterC6C4F3DE47DB58E6FE4AD59A0DCBD301.tmp' to '../../../../../../Users/지동석/Desktop/TermProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.05.16-05.04.34:429][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="../../../../../../Users/지동석/Desktop/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2019.05.16-05.04.34:506][177]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/TermProject/Saved/Spider_Bomb09C9999A4A0D5272CCE2CA975CD1CC63.tmp' to '../../../../../../Users/지동석/Desktop/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2019.05.16-05.04.34:521][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Turret" FILE="../../../../../../Users/지동석/Desktop/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Turret.uasset" SILENT=true
+[2019.05.16-05.04.34:583][177]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/TermProject/Saved/Spider_Turret847AA6684A99997CCCEC7BA11D146E32.tmp' to '../../../../../../Users/지동석/Desktop/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Turret.uasset'
+[2019.05.16-05.04.35:070][233]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-05.04.35:089][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.04.35:089][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-05.04.35:089][233]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 11:04:35)
+[2019.05.16-05.04.35:089][233]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-05.04.35:118][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028990s)
+[2019.05.16-05.04.35:118][233]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-05.04.35:119][233]LogPlayLevel: PIE: World Init took: (0.000671s)
+[2019.05.16-05.04.35:119][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.029785s)
+[2019.05.16-05.04.35:193][233]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-05.04.35:218][233]LogInit: FAudioDevice initialized.
+[2019.05.16-05.04.35:247][233]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-05.04.35:250][233]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-14.04.35
+[2019.05.16-05.04.35:251][233]LogWorld: Bringing up level for play took: 0.003119
+[2019.05.16-05.04.35:275][233]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.577
+[2019.05.16-05.04.35:275][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.04.38:376][596]LogBlueprintUserMessages: [TimeFragment_C_0] 1
+[2019.05.16-05.04.43:127][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.04.43:128][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.04.43:162][166]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-05.04.43:162][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.04.43:196][166]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.04.43:231][169]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.05.16-05.04.44:609][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-05.05.13:098][670]BlueprintLog: New page: Test_Dummy_Master 컴파일
+[2019.05.16-05.05.14:757][823]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-05.05.14:783][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.05.14:783][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-05.05.14:783][823]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 11:05:14)
+[2019.05.16-05.05.14:783][823]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-05.05.14:811][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027896s)
+[2019.05.16-05.05.14:811][823]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-05.05.14:811][823]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2019.05.16-05.05.14:811][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.028559s)
+[2019.05.16-05.05.14:888][823]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-05.05.14:912][823]LogInit: FAudioDevice initialized.
+[2019.05.16-05.05.14:945][823]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-05.05.14:948][823]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-14.05.14
+[2019.05.16-05.05.14:949][823]LogWorld: Bringing up level for play took: 0.003037
+[2019.05.16-05.05.14:966][823]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.269
+[2019.05.16-05.05.14:966][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.05.17:668][145]LogBlueprintUserMessages: [Test_Dummy_Master_2] Hit
+[2019.05.16-05.05.17:676][146]LogBlueprintUserMessages: [Test_Dummy_Master_2] Hit
+[2019.05.16-05.05.17:685][147]LogBlueprintUserMessages: [Test_Dummy_Master_2] Hit
+[2019.05.16-05.05.17:985][183]LogBlueprintUserMessages: [Test_Dummy_Master_2] Hit
+[2019.05.16-05.05.17:985][183]LogBlueprintUserMessages: [Test_Dummy_Master_2] Hit
+[2019.05.16-05.05.18:518][247]LogBlueprintUserMessages: [TimeFragment_C_0] 1
+[2019.05.16-05.05.25:177][ 46]LogBlueprintUserMessages: [TimeFragment_C_1] 2
+[2019.05.16-05.05.27:137][281]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.05.27:137][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.05.27:175][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-05.05.27:175][281]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.05.27:210][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.05.27:236][283]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.05.16-05.05.28:176][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-05.05.44:167][260]BlueprintLog: New page: Spider_Turret 컴파일
+[2019.05.16-05.05.51:500][ 79]BlueprintLog: New page: Spider_Bomb 컴파일
+[2019.05.16-05.05.52:779][193]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-05.05.52:804][193]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.05.52:804][193]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-05.05.52:804][193]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 11:05:52)
+[2019.05.16-05.05.52:804][193]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-05.05.52:833][193]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028869s)
+[2019.05.16-05.05.52:834][193]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-05.05.52:834][193]LogPlayLevel: PIE: World Init took: (0.000508s)
+[2019.05.16-05.05.52:834][193]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.029488s)
+[2019.05.16-05.05.52:909][193]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-05.05.52:933][193]LogInit: FAudioDevice initialized.
+[2019.05.16-05.05.52:964][193]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-05.05.52:967][193]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-14.05.52
+[2019.05.16-05.05.52:967][193]LogWorld: Bringing up level for play took: 0.002857
+[2019.05.16-05.05.52:981][193]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.05.52:981][193]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.05.52:984][193]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.287
+[2019.05.16-05.05.52:984][193]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.05.55:780][526]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.05.55:780][526]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.05.55:788][527]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.85
+[2019.05.16-05.05.56:088][563]LogBlueprintUserMessages: [Test_Dummy_Master_2] Hit
+[2019.05.16-05.05.56:280][586]LogBlueprintUserMessages: [Test_Dummy_Master_2] Hit
+[2019.05.16-05.05.56:288][587]LogBlueprintUserMessages: [Test_Dummy_Master_2] Hit
+[2019.05.16-05.05.56:564][620]LogBlueprintUserMessages: [Test_Dummy_Master_2] Hit
+[2019.05.16-05.05.56:565][620]LogBlueprintUserMessages: [Test_Dummy_Master_2] Hit
+[2019.05.16-05.05.56:781][646]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.9
+[2019.05.16-05.05.57:105][685]LogBlueprintUserMessages: [TimeFragment_C_0] 1
+[2019.05.16-05.05.57:255][703]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.05.57:364][716]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.05.57:781][766]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.95
+[2019.05.16-05.05.57:789][767]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.05.57:789][767]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.05.58:573][861]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.05.58:655][871]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.05.58:781][886]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.05.58:782][886]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.05.58:782][886]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.05.58:782][886]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.05.58:782][886]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.05.58:782][886]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.05.58:782][886]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 1.0
+[2019.05.16-05.05.59:072][921]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.05.59:647][990]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.05.59:698][996]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.05.59:773][  5]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.05.59:773][  5]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.05.59:773][  5]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.05.59:773][  5]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.05.59:773][  5]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.05.59:773][  5]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.00:106][ 45]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.06.00:173][ 53]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.00:173][ 53]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.00:173][ 53]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.00:173][ 53]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.00:256][ 63]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.06.00:298][ 68]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.06.00:340][ 73]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.06.00:340][ 73]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.00:340][ 73]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.06.00:573][101]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.00:573][101]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.00:573][101]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.00:573][101]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.00:973][149]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.00:973][149]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.00:974][149]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.00:974][149]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.01:373][197]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.01:373][197]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.01:374][197]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.01:374][197]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.01:773][245]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.01:773][245]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.01:774][245]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.01:774][245]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.01:782][246]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.01:782][246]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.01:782][246]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.01:782][246]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.01:940][265]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.01:940][265]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.02:173][293]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.02:173][293]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.02:174][293]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.02:174][293]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.02:573][341]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.02:573][341]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.02:574][341]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.02:574][341]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.02:606][345]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.02:615][346]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.02:698][356]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.02:973][389]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.02:974][389]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.02:974][389]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.02:974][389]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.03:374][437]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.03:374][437]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.03:457][447]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.03:774][485]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.03:774][485]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.03:774][485]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.03:774][485]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.04:174][533]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.04:174][533]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.04:174][533]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.04:174][533]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.04:364][556]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.04:524][575]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.04:532][576]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.04:574][581]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.04:574][581]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.04:574][581]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.04:575][581]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.04:698][596]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.04:782][606]LogBlueprintUserMessages: [Spider_Bomb_C_2] Hit
+[2019.05.16-05.06.04:782][606]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.04:782][606]LogBlueprintUserMessages: [Spider_Bomb_C_2] Hit
+[2019.05.16-05.06.04:782][606]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.04:782][606]LogBlueprintUserMessages: [Spider_Bomb_C_2] Hit
+[2019.05.16-05.06.04:782][606]LogBlueprintUserMessages: [Spider_Bomb_C_2] Hit
+[2019.05.16-05.06.04:974][629]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.04:974][629]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.04:974][629]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.04:974][629]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.05:374][677]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.05:374][677]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.05:375][677]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.05:375][677]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.05:615][706]LogBlueprintUserMessages: [Spider_Bomb_C_2] Hit
+[2019.05.16-05.06.05:699][716]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.05:748][722]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.05:756][723]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.05:765][724]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.05:774][725]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.05:774][725]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.05:774][725]LogBlueprintUserMessages: [Spider_Bomb_C_2] Hit
+[2019.05.16-05.06.05:774][725]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.05:774][725]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.05:774][725]LogBlueprintUserMessages: [Spider_Bomb_C_2] Hit
+[2019.05.16-05.06.05:775][725]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.05:775][725]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.05:775][725]LogBlueprintUserMessages: [Spider_Bomb_C_2] Hit
+[2019.05.16-05.06.05:775][725]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.05:775][725]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.05:775][725]LogBlueprintUserMessages: [Spider_Bomb_C_2] Hit
+[2019.05.16-05.06.06:140][769]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:148][770]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:157][771]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:174][773]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.06:174][773]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:174][773]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.06:174][773]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:175][773]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.06:175][773]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:175][773]LogBlueprintUserMessages: [Spider_Bomb_C_2] Hit
+[2019.05.16-05.06.06:175][773]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.06:175][773]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:465][808]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:473][809]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:482][810]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:574][821]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.06:574][821]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:574][821]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.06:574][821]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:575][821]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.06:575][821]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:575][821]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.06:575][821]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:974][869]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.06:974][869]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:975][869]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.06:975][869]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:975][869]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.06:975][869]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.06:975][869]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.06:975][869]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:007][873]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:106][885]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:357][915]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:365][916]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:374][917]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:374][917]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.07:374][917]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:375][917]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.07:375][917]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:375][917]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.07:375][917]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:375][917]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.07:375][917]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:407][921]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:432][924]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:774][965]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.07:775][965]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:775][965]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.07:775][965]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:775][965]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.07:775][965]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:775][965]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.07:775][965]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:784][966]LogBlueprintUserMessages: [Spider_Turret_C_2] Hit
+[2019.05.16-05.06.07:784][966]LogBlueprintUserMessages: [Spider_Turret_C_2] Hit
+[2019.05.16-05.06.07:832][972]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.07:841][973]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:107][  5]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:174][ 13]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.08:174][ 13]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:175][ 13]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.08:175][ 13]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:175][ 13]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.08:175][ 13]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:175][ 13]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.08:175][ 13]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:576][ 61]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.08:576][ 61]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:576][ 61]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.08:576][ 61]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:577][ 61]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.08:577][ 61]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:577][ 61]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.08:577][ 61]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:616][ 66]LogBlueprintUserMessages: [Spider_Turret_C_2] Hit
+[2019.05.16-05.06.08:934][104]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:950][106]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:975][109]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.08:975][109]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:975][109]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.08:975][109]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:976][109]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.08:976][109]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.08:976][109]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.08:976][109]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.09:238][137]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.09:380][154]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.09:380][154]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.09:380][154]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.09:380][154]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.09:380][154]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.09:380][154]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.09:381][154]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.09:381][154]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.09:513][170]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.09:780][202]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.09:780][202]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.09:780][202]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.09:780][202]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.09:780][202]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.09:780][202]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.09:781][202]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.09:781][202]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.09:913][218]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.09:913][218]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:004][229]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:180][250]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:180][250]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:180][250]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:181][250]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:181][250]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:181][250]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:181][250]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:181][250]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:313][266]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:313][266]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:580][298]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:580][298]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:581][298]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:581][298]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:581][298]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:581][298]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:581][298]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:581][298]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:613][302]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:613][302]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:713][314]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:714][314]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:789][323]LogBlueprintUserMessages: [Spider_Bomb_C_3] Hit
+[2019.05.16-05.06.10:789][323]LogBlueprintUserMessages: [Spider_Turret_C_2] Hit
+[2019.05.16-05.06.10:789][323]LogBlueprintUserMessages: [Spider_Bomb_C_3] Hit
+[2019.05.16-05.06.10:789][323]LogBlueprintUserMessages: [Spider_Bomb_C_3] Hit
+[2019.05.16-05.06.10:813][326]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:981][346]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:981][346]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:981][346]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:981][346]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:981][346]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:981][346]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.10:982][346]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.10:982][346]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:013][350]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:113][362]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:113][362]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:213][374]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:380][394]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:380][394]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:380][394]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:380][394]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:381][394]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:381][394]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:381][394]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:381][394]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:413][398]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:512][410]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:513][410]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:513][410]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:613][422]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:621][423]LogBlueprintUserMessages: [Spider_Bomb_C_3] Hit
+[2019.05.16-05.06.11:781][442]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:781][442]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:781][442]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:781][442]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:781][442]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:781][442]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:782][442]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:782][442]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:814][446]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:814][446]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.11:913][458]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.11:913][458]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:013][470]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:181][490]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:181][490]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:181][490]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:181][490]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:181][490]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:181][490]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:182][490]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:182][490]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:313][506]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:405][517]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:581][538]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:581][538]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:581][538]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:581][538]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:582][538]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:582][538]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:582][538]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:582][538]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:614][542]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:713][554]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:713][554]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:805][565]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:805][565]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:981][586]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:981][586]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:981][586]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:981][586]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:982][586]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:982][586]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.12:982][586]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.12:982][586]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.13:114][602]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.13:114][602]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.13:381][634]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.13:381][634]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.13:381][634]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.13:381][634]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.13:381][634]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.13:381][634]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.13:382][634]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.13:382][634]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.13:514][650]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.13:514][650]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.13:781][682]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.13:781][682]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.13:782][682]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.13:782][682]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.13:782][682]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.13:782][682]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.13:782][682]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.13:782][682]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.13:913][698]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:005][709]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:181][730]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:181][730]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:182][730]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:182][730]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:182][730]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:182][730]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:182][730]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:182][730]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:213][734]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:213][734]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:313][746]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:314][746]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:581][778]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:581][778]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:581][778]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:581][778]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:581][778]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:581][778]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:581][778]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:581][778]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:713][794]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:981][826]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:981][826]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:981][826]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:981][826]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:981][826]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:981][826]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.14:982][826]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.14:982][826]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.15:014][830]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.15:114][842]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.15:114][842]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.15:114][842]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.15:381][874]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.15:381][874]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.15:381][874]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.15:381][874]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.15:382][874]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.15:382][874]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.15:382][874]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.15:382][874]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.15:513][890]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.15:513][890]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.15:781][922]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.15:781][922]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.15:781][922]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.15:781][922]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.15:781][922]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.15:781][922]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.15:781][922]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.15:781][922]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.15:913][938]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.15:914][938]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:181][970]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:181][970]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:181][970]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:181][970]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:182][970]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:182][970]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:182][970]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:182][970]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:230][976]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:314][986]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:314][986]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:314][986]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:581][ 18]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:581][ 18]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:581][ 18]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:581][ 18]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:581][ 18]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:581][ 18]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:582][ 18]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:582][ 18]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:630][ 24]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:713][ 34]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:714][ 34]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:782][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.15
+[2019.05.16-05.06.16:981][ 66]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:981][ 66]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:981][ 66]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:981][ 66]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:982][ 66]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:982][ 66]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.16:982][ 66]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.16:982][ 66]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:022][ 71]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:113][ 82]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:171][ 89]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:382][114]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:382][114]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:382][114]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:382][114]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:382][114]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:382][114]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:383][114]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:383][114]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:423][119]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:513][130]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:513][130]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:782][162]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:782][162]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:782][162]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:782][162]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:782][162]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:782][162]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:783][162]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:783][162]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:783][162]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.2
+[2019.05.16-05.06.17:822][167]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:913][178]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.17:913][178]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.17:972][185]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:182][210]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:182][210]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:182][210]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:182][210]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:182][210]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:182][210]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:183][210]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:183][210]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:314][226]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:314][226]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:582][258]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:582][258]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:582][258]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:582][258]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:583][258]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:583][258]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:583][258]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:583][258]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:638][265]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:713][274]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:714][274]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:764][280]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:782][282]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.25
+[2019.05.16-05.06.18:981][306]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:981][306]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:981][306]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:981][306]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:982][306]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:982][306]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.18:982][306]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.18:982][306]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:030][312]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.19:113][322]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:114][322]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.19:381][354]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.19:381][354]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:381][354]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.19:381][354]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:382][354]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.19:382][354]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:382][354]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.19:382][354]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:439][361]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.19:514][370]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:572][377]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:781][402]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.19:781][402]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:782][402]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.19:782][402]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:782][402]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.19:782][402]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:782][402]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.19:782][402]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:783][402]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] 0.3
+[2019.05.16-05.06.19:914][418]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:914][418]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.19:914][418]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.20:181][450]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.20:182][450]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.20:182][450]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.20:182][450]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.20:182][450]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.20:182][450]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.20:182][450]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.20:182][450]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.20:314][466]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.20:314][466]LogBlueprintUserMessages: [Spider_Turret_C_1] Hit
+[2019.05.16-05.06.20:372][473]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.20:381][474]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.20:549][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.06.20:549][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.06.20:588][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-05.06.20:589][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.06.20:622][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.06.20:650][496]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.16-05.06.21:986][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-05.06.24:912][  7]LogTemp: Repeating last play command: 선택된 뷰포트
+[2019.05.16-05.06.24:933][  7]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.06.24:933][  7]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.16-05.06.24:933][  7]PIE: New page: PIE 세션: MyGame (2019. 5. 16. 오후 11:06:24)
+[2019.05.16-05.06.24:933][  7]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MyGame
+[2019.05.16-05.06.24:963][  7]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028934s)
+[2019.05.16-05.06.24:963][  7]LogAIModule: Creating AISystem for world MyGame
+[2019.05.16-05.06.24:964][  7]LogPlayLevel: PIE: World Init took: (0.000494s)
+[2019.05.16-05.06.24:964][  7]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MyGame.MyGame to /Game/UEDPIE_0_MyGame.MyGame (0.029543s)
+[2019.05.16-05.06.25:041][  7]LogInit: XAudio2 using '스피커(Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.05.16-05.06.25:065][  7]LogInit: FAudioDevice initialized.
+[2019.05.16-05.06.25:099][  7]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.16-05.06.25:102][  7]LogWorld: Bringing World /Game/UEDPIE_0_MyGame.MyGame up for play (max tick rate 0) at 2019.05.16-14.06.25
+[2019.05.16-05.06.25:102][  7]LogWorld: Bringing up level for play took: 0.002852
+[2019.05.16-05.06.25:117][  7]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.25:117][  7]LogBlueprintUserMessages: [Spider_Bomb_C_0] Hit
+[2019.05.16-05.06.25:119][  7]PIE: /Game/UEDPIE_0_MyGame 에 대한 에디터에서 플레이 시작 시간: 0.421
+[2019.05.16-05.06.25:119][  7]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.06.27:908][339]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.27:908][339]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.30:907][699]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.06.30:907][699]LogBlueprintUserMessages: [Spider_Turret_C_0] Hit
+[2019.05.16-05.06.30:907][699]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.06.30:907][699]LogBlueprintUserMessages: [Spider_Bomb_C_1] Hit
+[2019.05.16-05.06.33:541][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.06.33:542][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.06.33:579][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.16-05.06.33:580][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/MyGame.MyGame:PersistentLevel' has LevelScriptBlueprint '/Game/MyGame.MyGame:PersistentLevel.MyGame' with GeneratedClass '/Game/MyGame.MyGame_C' with ClassGeneratedBy '/Game/MyGame.MyGame:PersistentLevel.MyGame'
+[2019.05.16-05.06.33:613][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.16-05.06.33:647][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.05.16-05.06.34:661][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.16-05.07.43:607][287]LogSlate: Window '콘텐츠 저장' being destroyed
+[2019.05.16-05.07.43:621][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyGame" FILE="../../../../../../Users/지동석/Desktop/TermProject/Content/MyGame.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.16-05.07.44:089][287]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/TermProject/Saved/MyGame0A79F6F14AFCB80A9684BA8A05971099.tmp' to '../../../../../../Users/지동석/Desktop/TermProject/Content/MyGame.umap'
+[2019.05.16-05.07.44:112][287]LogFileHelpers: Saving map 'MyGame' took 0.492
+[2019.05.16-05.07.44:148][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Bomb" FILE="../../../../../../Users/지동석/Desktop/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset" SILENT=true
+[2019.05.16-05.07.44:221][287]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/TermProject/Saved/Spider_BombE058D1644AF0B5215D702CA08DCBA7D7.tmp' to '../../../../../../Users/지동석/Desktop/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Bomb.uasset'
+[2019.05.16-05.07.44:254][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Spider_Turret" FILE="../../../../../../Users/지동석/Desktop/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Turret.uasset" SILENT=true
+[2019.05.16-05.07.44:318][287]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/TermProject/Saved/Spider_TurretC3CB53F74D84329D310CF9BE4F4BF114.tmp' to '../../../../../../Users/지동석/Desktop/TermProject/Content/ThirdPersonBP/Blueprints/Spider_Turret.uasset'
+[2019.05.16-05.07.44:352][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Test_Dummy_Master" FILE="../../../../../../Users/지동석/Desktop/TermProject/Content/ThirdPersonBP/Blueprints/Test_Dummy_Master.uasset" SILENT=true
+[2019.05.16-05.07.44:403][287]LogSavePackage: Moving '../../../../../../Users/지동석/Desktop/TermProject/Saved/Test_Dummy_Master84BE834B4D0F86064CB1ADB92FA5C816.tmp' to '../../../../../../Users/지동석/Desktop/TermProject/Content/ThirdPersonBP/Blueprints/Test_Dummy_Master.uasset'
+[2019.05.16-05.07.44:536][287]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.16-05.07.44:605][287]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.16-05.07.44:665][287]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.05.16-05.07.44:709][287]LogSlate: Window 'TermProject - 언리얼 에디터' being destroyed
+[2019.05.16-05.07.44:940][288]Cmd: QUIT_EDITOR
+[2019.05.16-05.07.45:890][288]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft 입력기).
+[2019.05.16-05.07.45:921][288]LogExit: Preparing to exit.
+[2019.05.16-05.07.46:872][288]LogExit: Editor shut down
+[2019.05.16-05.07.46:872][288]LogExit: Transaction tracking system shut down
+[2019.05.16-05.07.47:162][288]LogExit: Object subsystem successfully closed.
+[2019.05.16-05.07.47:182][288]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.16-05.07.47:185][288]LogD3D11RHI: Shutdown
+[2019.05.16-05.07.47:185][288]LogD3D11RHI: CleanupD3DDevice
+[2019.05.16-05.07.47:186][288]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.16-05.07.47:224][288]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (628)
+[2019.05.16-05.07.47:224][288]LogModuleManager: Shutting down and abandoning module Voice (626)
+[2019.05.16-05.07.47:224][288]LogModuleManager: Shutting down and abandoning module BlueprintGraph (624)
+[2019.05.16-05.07.47:224][288]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.05.16-05.07.47:224][288]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.05.16-05.07.47:224][288]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.05.16-05.07.47:224][288]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.05.16-05.07.47:224][288]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.05.16-05.07.47:224][288]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.05.16-05.07.47:225][288]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.05.16-05.07.47:226][288]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.05.16-05.07.47:226][288]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.05.16-05.07.47:226][288]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.05.16-05.07.47:226][288]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.05.16-05.07.47:226][288]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.05.16-05.07.47:226][288]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.05.16-05.07.47:226][288]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.05.16-05.07.48:183][288]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.05.16-05.07.48:183][288]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.05.16-05.07.48:183][288]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.05.16-05.07.48:183][288]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.05.16-05.07.48:183][288]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.05.16-05.07.48:183][288]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.05.16-05.07.48:183][288]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.05.16-05.07.48:183][288]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.05.16-05.07.48:183][288]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.05.16-05.07.48:183][288]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.05.16-05.07.48:183][288]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.05.16-05.07.48:184][288]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.05.16-05.07.48:184][288]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.05.16-05.07.48:184][288]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.05.16-05.07.48:184][288]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.05.16-05.07.48:184][288]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.05.16-05.07.48:184][288]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.05.16-05.07.48:184][288]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.05.16-05.07.48:184][288]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.05.16-05.07.48:184][288]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.05.16-05.07.48:184][288]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.05.16-05.07.48:184][288]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.05.16-05.07.48:185][288]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.05.16-05.07.48:240][288]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.05.16-05.07.48:240][288]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.05.16-05.07.48:240][288]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.05.16-05.07.48:240][288]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.05.16-05.07.48:240][288]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.05.16-05.07.48:240][288]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.05.16-05.07.48:240][288]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.05.16-05.07.48:241][288]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.05.16-05.07.48:241][288]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.05.16-05.07.48:241][288]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.05.16-05.07.48:248][288]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.05.16-05.07.48:252][288]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.05.16-05.07.48:385][288]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.05.16-05.07.48:385][288]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.05.16-05.07.48:385][288]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.05.16-05.07.48:387][288]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.05.16-05.07.48:398][288]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.05.16-05.07.48:399][288]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.16-05.07.48:399][288]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.16-05.07.48:399][288]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.16-05.07.48:399][288]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.16-05.07.48:399][288]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.16-05.07.48:399][288]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.16-05.07.48:399][288]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.16-05.07.48:399][288]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.16-05.07.48:400][288]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.16-05.07.48:400][288]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.16-05.07.48:400][288]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.16-05.07.48:400][288]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.16-05.07.48:400][288]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.16-05.07.48:400][288]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.16-05.07.48:400][288]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.16-05.07.48:400][288]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.05.16-05.07.48:401][288]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.05.16-05.07.48:401][288]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.05.16-05.07.48:401][288]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.05.16-05.07.48:401][288]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.05.16-05.07.48:401][288]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.05.16-05.07.48:401][288]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.05.16-05.07.48:401][288]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.05.16-05.07.48:401][288]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.05.16-05.07.48:401][288]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.05.16-05.07.48:401][288]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.05.16-05.07.48:402][288]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.05.16-05.07.48:402][288]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.16-05.07.48:402][288]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.16-05.07.48:503][288]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.16-05.07.48:604][288]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.16-05.07.48:604][288]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.16-05.07.48:604][288]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.16-05.07.48:604][288]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.16-05.07.48:604][288]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.16-05.07.48:604][288]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.16-05.07.48:604][288]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.16-05.07.48:604][288]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.16-05.07.48:604][288]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.16-05.07.48:604][288]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.16-05.07.48:604][288]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.16-05.07.48:606][288]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.16-05.07.48:607][288]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.16-05.07.48:607][288]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.16-05.07.48:607][288]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.16-05.07.48:607][288]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.16-05.07.48:607][288]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.16-05.07.48:607][288]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.05.16-05.07.48:607][288]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.05.16-05.07.48:610][288]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.05.16-05.07.48:617][288]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.05.16-05.07.48:618][288]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.05.16-05.07.48:618][288]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.05.16-05.07.48:618][288]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.05.16-05.07.48:618][288]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.05.16-05.07.48:621][288]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.05.16-05.07.48:621][288]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.05.16-05.07.48:621][288]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.05.16-05.07.48:621][288]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.05.16-05.07.48:621][288]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.05.16-05.07.48:622][288]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.05.16-05.07.48:722][288]LogDerivedDataCache: Shutdown
+[2019.05.16-05.07.48:722][288]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.05.16-05.07.48:722][288]LogXGEController: Cleaning working directory: C:/Users/지동석/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.16-05.07.48:722][288]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.05.16-05.07.48:722][288]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.05.16-05.07.48:722][288]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.05.16-05.07.48:722][288]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.05.16-05.07.48:722][288]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.05.16-05.07.48:722][288]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.05.16-05.07.48:722][288]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.05.16-05.07.48:723][288]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.05.16-05.07.48:723][288]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.05.16-05.07.48:723][288]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.05.16-05.07.48:723][288]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.05.16-05.07.48:723][288]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.05.16-05.07.48:723][288]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.05.16-05.07.48:723][288]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.05.16-05.07.48:723][288]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.05.16-05.07.48:723][288]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.05.16-05.07.48:723][288]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.05.16-05.07.48:724][288]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.05.16-05.07.48:724][288]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.05.16-05.07.48:725][288]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.05.16-05.07.48:725][288]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.05.16-05.07.48:725][288]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.05.16-05.07.48:726][288]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.05.16-05.07.48:726][288]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.05.16-05.07.48:727][288]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.05.16-05.07.48:727][288]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.05.16-05.07.48:736][288]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.05.16-05.07.48:736][288]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.05.16-05.07.48:736][288]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.05.16-05.07.48:736][288]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.05.16-05.07.48:736][288]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.05.16-05.07.48:736][288]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.05.16-05.07.48:736][288]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.05.16-05.07.48:736][288]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.05.16-05.07.48:737][288]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.05.16-05.07.48:737][288]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.05.16-05.07.48:737][288]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.05.16-05.07.48:737][288]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.05.16-05.07.48:737][288]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.05.16-05.07.48:737][288]LogHMD: Freeing OpenVRDLLHandle.
+[2019.05.16-05.07.48:737][288]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.05.16-05.07.48:737][288]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.05.16-05.07.48:737][288]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.05.16-05.07.48:737][288]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.05.16-05.07.48:737][288]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.05.16-05.07.48:738][288]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.05.16-05.07.48:738][288]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.05.16-05.07.48:760][288]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.05.16-05.07.48:760][288]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.16-05.07.48:760][288]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB8C5CE57-4900-8CF0-12DE-038F2104D18F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=18d2bd544e7455b44280c79a6168b81a%7Ce61b34d04b5e4c66a764de3839a93c3d%7Cc452adbe-c00e-4897-99e9-f3dd50455ccb&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.16-05.07.48:793][288]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.05.16-05.07.48:797][288]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.05.16-05.07.48:798][288]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.05.16-05.07.48:798][288]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.05.16-05.07.48:798][288]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.05.16-05.07.48:798][288]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.05.16-05.07.48:798][288]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.05.16-05.07.48:798][288]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.05.16-05.07.48:798][288]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.16-05.07.48:798][288]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.05.16-05.07.48:799][288]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.05.16-05.07.48:801][288]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.16-05.07.48:801][288]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.16-05.07.48:801][288]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.16-05.07.48:801][288]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.16-05.07.48:801][288]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.16-05.07.48:801][288]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.16-05.07.48:801][288]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.16-05.07.48:807][288]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.16-05.07.48:807][288]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.16-05.07.48:807][288]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.16-05.07.48:807][288]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.16-05.07.48:807][288]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.16-05.07.48:807][288]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.16-05.07.48:808][288]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.16-05.07.48:808][288]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.16-05.07.48:808][288]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.16-05.07.48:808][288]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.16-05.07.48:808][288]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.16-05.07.48:822][288]LogExit: Exiting.
+[2019.05.16-05.07.48:862][288]Log file closed, 05/16/19 14:07:48
